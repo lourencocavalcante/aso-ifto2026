@@ -1,7 +1,5 @@
 # ASO IFTO 2026
 
-Material didático da disciplina Administração de Sistemas Operacionais para Licenciatura em Computação.
+Projeto completo com 22 aulas, soluções exemplo, solução-base do projeto final, menu lateral recolhível, estilos Windows e Ubuntu, tema claro/escuro, busca e modo apresentação.
 
-O conteúdo público é destinado aos estudantes. A página do professor contém apenas perfil acadêmico e atuação profissional.
-
-Publique todos os arquivos diretamente na raiz do repositório `aso-ifto2026`.
+As preferências visuais ficam salvas no navegador. Publique os arquivos diretamente na raiz de `aso-ifto2026`.
